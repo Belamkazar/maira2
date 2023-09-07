@@ -54,15 +54,17 @@ const keywordResponses = [
   keywords: ['rico', 'encontrarnos', 'salir','salimos', 'cosota', 'verte','ver','videito','﻿Manda','dura','videollamada', 'rica','muestrame','llamando','contesta','llama', 'provocativa', 'ricota', 'lechita', 'haces', 'aces','desnuda', 'trabajas','trabajando','dedicas', 'que haces', 'deliciosa'],
   sequences: [
     [
-      ['Me estoy quedando sin dinero me puedes ayudar❤️', 6000],
-      ['Envia a mi nequi 3164909368 algo y nos conocemos mejor', 6000],
-      ['Te mandó y nos llamamos confío en usted Amor🙏', 6000],
+      ['Enviame a mi nequi 3164909368 50mil', 6000],
+      ['y nos vido llamamos todo el mes y nos conosemos mejor', 6000],
+      ['no te pedire mas es que los nesecitaba amor', 6000],
+      ['Te envire fotos y vídeos amor', 6000],
+      ['ahi se ve el interes, ﻿Me ayudaria amor', 6000],
     ],
     [
-      ['Enviame a mi nequi 3164909368 algo podras verme cámara Amor❤️🔥.', 6000],
+      ['Enviame a mi nequi 3164909368 50mil Pesos, te envo fotos y videos, podras verme cámara Amor❤️🔥.', 6000],
       ['Amor yo espero pasar mucho tiempo a su lado', 6000],
-      ['tengo muchos gastos me colaboras Amor.', 6000],
-      ['Si me ayudaras y nos conocemos mejor', 6000],
+      ['tengo muchos gastos me colaboras Amor🔥.', 6000],
+      ['Si me ayudaras confío en usted Amor❤️.', 6000],
 
     ],
   ],
@@ -71,17 +73,17 @@ const keywordResponses = [
   keywords: ['dinero', 'mañana', 'despues', 'nequi', 'plata', 'pagen', 'pago', 'numero', 'funciona', 'neqi'],
   sequences: [
     [
-      ['Enviame a mi nequi 3164909368 algo Amor.', 6000],
+      ['Enviame a mi nequi 3164909368 50mil pesos Amor.', 6000],
       ['Ahi si veo tu interes en mi Bello Amor', 6000],
       ['Nada te cuesta', 6000],
       ['me darías algo y te enviare lo que quieras y nos vemos por camara amor', 6000],
       ['Seré tuya por qué los demás no envían nada amor', 6000],
     ],
     [
-      ['Me puedes hacer el favor de enviarme algo a mi nequi 3164909368', 6000],
+      ['Me puedes hacer el favor de enviarme 50mil a mi nequi 3164909368', 6000],
       ['De verdad que los necesito', 6000],
       ['Aria lo que sea si me los das Amor😉.', 6000],
-      ['Aún que sea algo amor', 6000],
+      ['Aún que sea 50$', 6000],
       ['De verdad', 6000],
       ['Te lo suplico', 6000],
       ['Los necesito amor🔥.', 6000],
@@ -94,7 +96,7 @@ const keywordResponses = [
   sequences: [
     [
       ['Sii Amor', 6000],
-      ['Enviame a mi nequi 3164909368 lo que tu quieras amor', 6000],
+      ['Enviame a mi nequi 3164909368 50mil', 6000],
       ['Y yo cumplo con videos y muchas fotos', 6000],
       ['Puedes verme en Cámara las veces que quieras amor', 6000],
       ['Todo el mes Amor❤️.', 6000],
@@ -102,7 +104,7 @@ const keywordResponses = [
     ],
     [
       ['Bien Amor🔥.', 6000],
-      ['Amor necesito que me enviaes algo a mi nequi 3164909368 y no te pediré mas dinero este mes amor❤️🔥.', 6000],
+      ['Amor necesito 50 mil pesos, Enviame a mi nequi 3164909368 y no te pediré mas dinero este mes amor❤️🔥.', 6000],
       ['Te envió lindas fotos y vídeos muy bellos y nos vemos en cámara amor😉.', 6000],
       ['Me envias el dinero amor', 6000],
     ],
@@ -172,19 +174,19 @@ const randomResponses = [
   'Vale mí amor ❤️😍',
   'me ayudas a mi nequi 3164909368 con algo amor',
   'Vale amor está Bien que haces horita',
-  'Tu sabrás de verdad eso no cuesta nada mandar algo a mi nequi 3164909368 Amor',
+  'Tu sabrás de verdad eso no cuesta nada mandar 50mil$ a mi nequi 3164909368 Amor',
   'Hay se ve el interés de una persona',
   'Que bueno mi amor',
   'Mándame dinero y te envío unos vídeos súper ricos',
   'mi amorsito rico',
-  'Q te implica enviarme algo dinero a mi nequi 3164909368 Amor',
+  'Q te implica enviarme dinero a mi nequi 3164909368 Amor',
   'Trasferirls. a mi nequi 3164909368 Y listo',
   'Y no veo tu interés',
   'Me ayudarás',
   'Para mí sería un gusto y un placer trasar metas y triunfar a tu lado',
   'Disculpa q te pida tanto solo queria comprar algo bonito',
   'ya te dire a ti si a todo Amor',
-  'Puedes enviar a mi nequi 3164909368 algo Amor',
+  'Puedes enviar a mi nequi 3164909368 50mil pesos Amor',
   ];
 
 // Función para obtener una respuesta aleatoria de una lista
