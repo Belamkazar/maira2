@@ -52,13 +52,7 @@ const keywordResponses = [
 
    
 
-// Diccionario de secuencias y sus imágenes asociadas
-const sequences = {
-// Agregar más secuencias aquí si es necesario
-// secuencia3: [ ... ]
-};
 
-// Respuestas aleatorias para mensajes desconocidos
 const randomResponses = [
   'Bueno pero tiene q enviarme algo de dinero',
   'Sii mándame dinero',
