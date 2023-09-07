@@ -53,14 +53,7 @@ const keywordResponses = [
    
 
 
-const randomResponses = [
-  'Bueno pero tiene q enviarme algo de dinero',
-  'Sii mándame dinero',
-  'Si es que no tienes oh no puedes',
-  'Te e pedido dinero y nada',
-  'Pero dame algo de dinero💔💔♥💔💔💔',
 
-  ];
 
 // Función para obtener una respuesta aleatoria de una lista
 function getRandomResponse(responsesList) {
