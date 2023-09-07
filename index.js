@@ -50,84 +50,7 @@ const keywordResponses = [
       responses: ['Así me encanta el huevo rico 🤤 Ami me gusta mucho', 'Cree q con esas labias de q me va hacer feliz', 'Q Rico Eso Me Encanta', 'Ay No Se Que Decir🤭', 'Super rico❤️❤️', 'divino papasito', 'Uf, qué rico. Me encantaría. 😋😋😋😋', 'Ayyy Q RiKo sii', 'Qué delicia 😘😘❤😍😍😍', 'Dime que me harías', 'Q rico seriaa amor 😍😍❤️🤤😈', 'Huuuuy q ricoo Mii bb', 'mee encantaa q ricooo mi amor', '😋😋😋q riicooo me encantaaaaaa', 'yaaa quiroo sentirlooo', 'Aaaaahh uufhssss q ricoooo', 'Riiicooo 😋😋👅', 'Ricooo riicoo ricoooo', 'Uufhsss dioossssss q ricoooooo 😍😍😍😍😍😈😈😈', 'q me deje las piernas temblando sexo rudo contigo amor seria perfectoo', 'Huy q riiicooo uffhsss', 'Quierooo esooo paraaa mi, sentirloo dentro de miii😍😍😍😍', 'Q ricooo sería super😈😋😋😋', 'Mee encantaria sentirlo dentro d mii 😈😋😋', '😋😋😋 seriaaaa ricooo', 'yoo quierooo 😈😈', 'sii Bebé y me mandas videos yoo quiero ver 😋😋😋😈😍😍', 'Waooo q ricoooo bb', 'Q ricooo bb meee encantaaas', 'huy q ricoo bb', 'Uf q ricooooooo mee encantaria tu penee😋😋😋😋', '😋😋😋 ufsss ricoooo', 'Pero no me mandas', '😮😮😋😋😋😈q riiicoooo mee encantaaa'],
     },
 
-    {
-  keywords: ['rico', 'encontrarnos', 'salir','salimos', 'cosota', 'verte','ver','videito','﻿Manda','dura','videollamada', 'rica','muestrame','llamando','contesta','llama', 'provocativa', 'ricota', 'lechita', 'haces', 'aces','desnuda', 'trabajas','trabajando','dedicas', 'que haces', 'deliciosa'],
-  sequences: [
-    [
-      ['Enviame a mi nequi 3164909368 50mil', 6000],
-      ['y nos vido llamamos todo el mes y nos conosemos mejor', 6000],
-      ['no te pedire mas es que los nesecitaba amor', 6000],
-      ['Te envire fotos y vídeos amor', 6000],
-      ['ahi se ve el interes, ﻿Me ayudaria amor', 6000],
-    ],
-    [
-      ['Enviame a mi nequi 3164909368 50mil Pesos, te envo fotos y videos, podras verme cámara Amor❤️🔥.', 6000],
-      ['Amor yo espero pasar mucho tiempo a su lado', 6000],
-      ['tengo muchos gastos me colaboras Amor🔥.', 6000],
-      ['Si me ayudaras confío en usted Amor❤️.', 6000],
-
-    ],
-  ],
-},
-{
-  keywords: ['dinero', 'mañana', 'despues', 'nequi', 'plata', 'pagen', 'pago', 'numero', 'funciona', 'neqi'],
-  sequences: [
-    [
-      ['Enviame a mi nequi 3164909368 50mil pesos Amor.', 6000],
-      ['Ahi si veo tu interes en mi Bello Amor', 6000],
-      ['Nada te cuesta', 6000],
-      ['me darías algo y te enviare lo que quieras y nos vemos por camara amor', 6000],
-      ['Seré tuya por qué los demás no envían nada amor', 6000],
-    ],
-    [
-      ['Me puedes hacer el favor de enviarme 50mil a mi nequi 3164909368', 6000],
-      ['De verdad que los necesito', 6000],
-      ['Aria lo que sea si me los das Amor😉.', 6000],
-      ['Aún que sea 50$', 6000],
-      ['De verdad', 6000],
-      ['Te lo suplico', 6000],
-      ['Los necesito amor🔥.', 6000],
-    ],
-  ],
-},
-// Agregar más palabras clave y sus respuestas/secuencias asociadas aquí
-{
-  keywords: ['foto', 'video', 'videos', 'mandame', 'enviame', 'hago', 'llamada', 'audio'],
-  sequences: [
-    [
-      ['Sii Amor', 6000],
-      ['Enviame a mi nequi 3164909368 50mil', 6000],
-      ['Y yo cumplo con videos y muchas fotos', 6000],
-      ['Puedes verme en Cámara las veces que quieras amor', 6000],
-      ['Todo el mes Amor❤️.', 6000],
-      ['Para pagar unas cosas que nesecito, Amor🥹.', 6000],
-    ],
-    [
-      ['Bien Amor🔥.', 6000],
-      ['Amor necesito 50 mil pesos, Enviame a mi nequi 3164909368 y no te pediré mas dinero este mes amor❤️🔥.', 6000],
-      ['Te envió lindas fotos y vídeos muy bellos y nos vemos en cámara amor😉.', 6000],
-      ['Me envias el dinero amor', 6000],
-    ],
-  ],
-},
-{
-  keywords: ["donde estas", "parte", "vives", "ciudad", "lugar", "pais", "dnde", "dónde", "país", "sitio"],
-  sequences: [
-    [
-      ['Soy Venezolana y estoy aquí en Medellín en la calle 34B # 65D a una cuadra del centro comercial Unicentro, frente al salon de belleza San Ángel VIP🥹.', 6000],
-      ['enviar imagen calle1.jpg', 6000],
-      ['enviar imagen calle2.jpg', 6000],
-      ['enviar imagen calle3.jpg', 6000],
-    ],
-    [
-      ['Vengo de Venezuela recien llegada y estoy en Medellín, en la Calle 34B #65D, a una cuadra del centro comercial Unicentro. Frente al salón de belleza San Ángel VIP 🥹', 6000],
-      ['enviar imagen calle2.jpg', 6000],
-      ['enviar imagen calle1.jpg', 6000],
-      ['enviar imagen calle3.jpg', 6000],
-    ],
-  ],
-},
-];
+   
 
 // Diccionario de secuencias y sus imágenes asociadas
 const sequences = {
@@ -142,51 +65,7 @@ const randomResponses = [
   'Si es que no tienes oh no puedes',
   'Te e pedido dinero y nada',
   'Pero dame algo de dinero💔💔♥💔💔💔',
-  'Shiiii 🥰❤️',
-  'Ok amor',
-  '❤️super rico 🤤',
-  'Hay dios 😁',
-  'Que bueno saber eso 😊',
-  'Vale está bien',
-  'Woow',
-  'Vale',
-  'Que finooo',
-  'Ahhh yaa que chevere',
-  'Sip',
-  'Si claro',
-  '❤️super rico 🤤',
-  'Ya entiendo',
-  'Ok me parece bien',
-  'Unnm eso es bueno',
-  'Muy bien',
-  'Si Rey',
-  'Está muy bien',
-  'Eso es bueno',
-  'Si ya',
-  'Bueno Amor❤️',
-  'Lindo',
-  'Eres mío Amor',
-  'Un ya',
-  'Me alegro',
-  'Ajá y entonces',
-  'Un ya cielo',
-  'Vale cielo está bien',
-  'Vale mí amor ❤️😍',
-  'me ayudas a mi nequi 3164909368 con algo amor',
-  'Vale amor está Bien que haces horita',
-  'Tu sabrás de verdad eso no cuesta nada mandar 50mil$ a mi nequi 3164909368 Amor',
-  'Hay se ve el interés de una persona',
-  'Que bueno mi amor',
-  'Mándame dinero y te envío unos vídeos súper ricos',
-  'mi amorsito rico',
-  'Q te implica enviarme dinero a mi nequi 3164909368 Amor',
-  'Trasferirls. a mi nequi 3164909368 Y listo',
-  'Y no veo tu interés',
-  'Me ayudarás',
-  'Para mí sería un gusto y un placer trasar metas y triunfar a tu lado',
-  'Disculpa q te pida tanto solo queria comprar algo bonito',
-  'ya te dire a ti si a todo Amor',
-  'Puedes enviar a mi nequi 3164909368 50mil pesos Amor',
+
   ];
 
 // Función para obtener una respuesta aleatoria de una lista
